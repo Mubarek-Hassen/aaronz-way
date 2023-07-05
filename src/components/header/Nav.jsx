@@ -1,9 +1,9 @@
-import React from 'react'
+import Classes from "./Nav.module.css"
 
 function Nav() {
   return (
     <nav>
-      <ul>
+      <ul className={Classes.list}>
         <li>Home</li>
         <li>Gallery</li>
         <li>About</li>

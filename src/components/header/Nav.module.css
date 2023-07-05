@@ -1,3 +1,9 @@
 .list {
   list-style: none;
+  padding: 0;
+  display: inline-flex;
+}
+
+.list > *{
+  margin: 0 2rem;
 }

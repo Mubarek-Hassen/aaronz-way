@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(69, 68, 68);
+  border: solid 1px white;
+}
+
+.logo {
+  margin: 0 2rem;
+}
