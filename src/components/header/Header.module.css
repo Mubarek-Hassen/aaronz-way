@@ -2,8 +2,9 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgb(69, 68, 68);
-  border: solid 1px white;
+  flex-wrap: wrap;
+  border: solid 2px white;
+  margin: 2rem;
 }
 
 .logo {

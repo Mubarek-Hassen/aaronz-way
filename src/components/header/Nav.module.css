@@ -2,8 +2,16 @@
   list-style: none;
   padding: 0;
   display: inline-flex;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
 }
 
 .list > *{
   margin: 0 2rem;
+  text-align: center;
+}
+
+.nav{
+  text-align: center;
 }
